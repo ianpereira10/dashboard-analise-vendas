@@ -20,3 +20,7 @@ Analisar o desempenho de vendas de uma empresa fictícia, avaliando receita, cus
 
 ## Conclusão
 O dashboard auxilia gestores na tomada de decisão ao evidenciar oportunidades de melhoria na rentabilidade e no desempenho comercial.
+
+## Dashboard
+
+![Visão Geral](imagens/visao-geral.png)
